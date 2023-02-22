@@ -1,0 +1,14 @@
+Aparecerão 6 quadrado, cada um de uma cor de fundo com o nome de uma cor escrita dentro diferente da cor de fundo.
+O jogador deve clicar no quadrado que contém a letra da escrita da cor que está escrita dentro do quadrado, não da cor de fundo do quadrado.
+
+O intuito é o jogador ficar confuso quanto ao nome da cor e a cor de fundo do quadrado e por ter q clicar rapido nos nomes que estão escritos da mesma cor, o jogador vai se confundir com a cor de fundo do quadrado.
+
+Ex.:
+Dentre os 6 quadrado, cada um deles com a sua cor de fundo, todos eles tem um nome de uma cor dentro, diferente da cor de fundo dele, mas em um deles essa cor está escrita com a letra da cor que ela indica, os outros não.
+
+Cada clique certo dá ao jogador 10 pontos. Cada clique errado tira 5 pontos.
+
+
+
+
+
