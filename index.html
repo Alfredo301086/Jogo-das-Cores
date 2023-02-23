@@ -12,7 +12,7 @@
         
     </script>
 </head>
-<body onload="colorido()">
+<body onload="mudarCor()">
     <h1 id="cabecalho">Acerte o nome das cores!</h1>
     <h2 id="h2">Instruções: Clique em START para começar o jogo. Quando vc ver que o nome da cor que aparecerá dentro do quadrado for o mesmo nome da cor da letra, clique no quadrado! Clique em STOP para parar o jogo e fazer a contagem dos pontos. A cada acerto você ganha 10 pontos. A cada erro você perde 5 pontos. ATENÇÃO! É a cor das letras, não a cor do quadrado! Cuidado pra não se confundir! Com cada acerto você ganha 10 pontos. Com cada erro você perde 5 pontos. BOA SORTE!</h2>
     <div id="tudo">
@@ -33,6 +33,10 @@
         <h1 ID="total">
             TOTAL:
         </h1>
+    </div>
+    <div id="botoes">
+        <button id="botao" type="submit" onclick="comecar()" width="100px">START</button>
+        <button id="botao" type="submit" onclick="parar()">STOP</button>
     </div>
 </body>
 </html>

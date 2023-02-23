@@ -1,6 +1,7 @@
 #cabecalho {
     text-align: center;
-    font: 80px normal Arial
+    font: 80px normal Arial;
+    color: rgb(Math.floor(Math.random() * 255)+1, Math.floor(Math.random() * 255)+1, Math.floor(Math.random() * 255)+1);
 }
 #h2{
     text-align: center;
